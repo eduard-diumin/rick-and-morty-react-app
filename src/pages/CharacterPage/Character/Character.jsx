@@ -16,7 +16,7 @@ export const Character = () => {
       .catch((err) => {
         console.error("Error fetching character data:", err);
       });
-  }, []);
+  }, [id]);
 
   const getStatusClassName = (status) => {
     let characterStatus;

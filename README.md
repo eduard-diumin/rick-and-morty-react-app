@@ -8,13 +8,13 @@ A simple React application built with Vite that displays information about chara
 - View character details
 - Explore locations and episodes
 - Pagination for character list
-- Responsive UI with custom styles
 
 ## Technologies
 
 - React
 - Vite
 - Axios
+- React router
 - CSS Modules
 - Rick and Morty API
 
